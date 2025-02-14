@@ -1,0 +1,1 @@
+console.log('Comi o cu de quem tá lendo')
